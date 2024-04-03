@@ -6,6 +6,6 @@ This is a simple keylogger program done in Python. This program is simply for ed
 The program works by logging all keyboard inputs on a separate text file called "keyLog.txt"
 
 The _pynput_ package is needed for this keylogger to work. To install the package, input this line of code to your Windows command prompt
-`py -m pip install pynput`
+```py -m pip install pynput```
 
 To exit the keylogger, simply terminate the running terminal.

@@ -1,3 +1,7 @@
+# Author: Reginald Andre Evangelista
+# Position: Intern for Cyber Security
+# Company: Prodigy InfoTech
+
 from pynput.keyboard import Key, Listener
 import logging
 
